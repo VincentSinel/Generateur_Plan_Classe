@@ -1,0 +1,60 @@
+╔═══════════════════════════════════════════╗
+║ Generateur de plan de classe    V1.4      ║
+║ Sinel V.  2018                            ║
+╠═══════════════════════════════════════════╝
+╠═══════════════════════════════╗
+║Derniere Mise a jour : V. 1.4  ║
+╠═══════════════════════════════╝
+║
+║	- Ajout de la mise a jour automatique.
+║   - Modification des information de contact.
+║
+╠═══════════════════════════════╗
+║Derniere Mise a jour : V. 1.3  ║
+╠═══════════════════════════════╝
+║
+║	- Lors de l'edition du nom/prenom des eleves, l'ordre alphabetic est maintenant mis a jour ainsi que la matrice
+║	- Le changement d'onglet de salle ne reinitialise plus les tables inexistante.
+║	- Le changement de la taille n'impacte plus la regeneration du plan de classe (Bug d'affichage).
+║
+╠═══════════════════════════════╗
+║Ancienne Mise a jour : V. 1.2  ║
+╠═══════════════════════════════╝
+║
+║	- Correction bug suppression d'élève de la liste
+║	- Trie automatique des élèves par ordre alphabetique.
+║	- Ajout de la fenetre A propos.
+║
+╠═══════════════════════════════╗
+║Ancienne Mise a jour : V. 1.1  ║
+╠═══════════════════════════════╝
+║
+║	- Assignation utilisateur de personne (Avant generation).
+║	- Assignation de bureau vide (Pour AED par exemple).
+║	- Sauvegarde des plan de classe déjà générer
+║
+╠═══════════════════════════════╗
+║Ancienne Mise a jour : V. 1.0  ║
+╠═══════════════════════════════╝
+║
+║	- Generation de plan de classe (Algorithmiquement).
+║ 	- Gestion des affinite entre eleves.
+║	- Gestion des classe et salle multiple.
+║	- Enregistrement des donnée en XML.
+║	- Exportation des plan de classe en PDF.
+║	- gestion de la forme de la classe.
+║
+╠════════════════════════════════╗
+║A Venir  (Fix et nouveautes) :  ║
+╠════════════════════════════════╝
+║
+║	- Amélioration de l'algorithme (élève en +3 non encore pris en compte)
+║	- Amélioration de l'algorithme (Reajustement en fin de génération)
+║	- Gestion des couloir.
+║	- Parametre de generation.
+║
+╠═════════════════════════════╗
+║Contact :                    ║
+║    Sinel Vincent            ║
+║vsprogramme.contact@gmail.com║
+╚═════════════════════════════╝
