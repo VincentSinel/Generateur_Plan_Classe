@@ -7,7 +7,7 @@
 ╠═══════════════════════════════╝
 ║
 ║	- Ajout de la mise a jour automatique.
-║   - Modification des information de contact.
+║	- Modification des information de contact.
 ║
 ╠═══════════════════════════════╗
 ║Derniere Mise a jour : V. 1.3  ║
