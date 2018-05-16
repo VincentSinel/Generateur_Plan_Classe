@@ -1,7 +1,22 @@
 ╔═══════════════════════════════════════════╗
-║ Generateur de plan de classe    V1.4      ║
+║ Generateur de plan de classe    V1.5      ║
 ║ Sinel V.  2018                            ║
 ╠═══════════════════════════════════════════╝
+╠═══════════════════════════════╗
+║Derniere Mise a jour : V. 1.5  ║
+╠═══════════════════════════════╝
+║
+║	- Correction de bug possible de chargement du fichier XML.
+║	- Correction du bug lors de la creation d'un élève sans nom ou prénom.
+║	- Correction du bug lors de la creation d'une classe sans nom.
+║	- Correction du bug lors de la suppression de la première salle.
+║	- Correction du bug lors du double clic vide pour la sélection d'un élève.
+║	- Ajout de l'auto focus sur les cases de textes de l'ajout de classe et d'élève.
+║	- Ajout de la préselection auto du bouton de validation des fenêtre d'ajout de classe et élève.
+║	- Ajout de l'auto focus sur la case de texte du nom de salle.
+║	- Ajout de la préselection auto du bouton appliquer de l'ensemble des fenêtre.
+║	- Ajout de l'enregistrement systématique des données (en cas de crash)
+║
 ╠═══════════════════════════════╗
 ║Derniere Mise a jour : V. 1.4  ║
 ╠═══════════════════════════════╝
