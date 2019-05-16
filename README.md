@@ -10,6 +10,7 @@ Aucune installation nécessaire le logiciel peut-être lancé depuis n'importe q
 
 * [Wpf Toolkit](https://github.com/xceedsoftware/wpftoolkit) - Pour les différent outils Xaml
 * [iText](https://github.com/itext/itextsharp) - Pour la creation de PDF
+* [AutoUpdater.Net](https://github.com/ravibpatel/AutoUpdater.NET) - Pour la mise à jour automatique
 
 ## Version
 

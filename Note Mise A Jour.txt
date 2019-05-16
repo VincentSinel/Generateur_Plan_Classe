@@ -1,7 +1,13 @@
 ╔═══════════════════════════════════════════╗
-║ Generateur de plan de classe    V1.5      ║
+║ Generateur de plan de classe    V1.6      ║
 ║ Sinel V.  2018                            ║
 ╠═══════════════════════════════════════════╝
+╠═══════════════════════════════╗
+║Derniere Mise a jour : V. 1.6  ║
+╠═══════════════════════════════╝
+║
+║	- Modification de la mise à jour automatique.
+║
 ╠═══════════════════════════════╗
 ║Derniere Mise a jour : V. 1.5  ║
 ╠═══════════════════════════════╝
