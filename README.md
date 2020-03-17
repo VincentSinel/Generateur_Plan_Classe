@@ -1,10 +1,10 @@
 # Generateur de plan de classe<a href="https://github.com/VincentSinel"><img align="right" src="https://raw.githubusercontent.com/VincentSinel/Image/master/Icone.png" width="233" style="margin:0px 30px" alt="VS Programme"></a>
 
-Petit logiciel à destination des enseignants. Il permet de générer des plans de classe basé sur les relation ou la volonté de l'enseignant de mettre des élèves ensemble. Il est possible de définir pour chaque élève une note vis a vis de ses camarades permettant de placer ceux-ci dans la classe.
+Petit logiciel à destination des enseignants. Il permet de générer des plans de classe basés sur les relations ou la volonté de l'enseignant de mettre des élèves ensembles. Il est possible de définir pour chaque élève une note vis à vis de ses camarades permettant de placer ceux-ci dans la classe.
 
 ## Installation
 
-Aucune installation nécessaire le logiciel peut-être lancé depuis n'importe quelle clè USB
+Aucune installation nécessaire, le logiciel peut-être lancé depuis n'importe quelle clé USB.
 
 ## Librairie
 
