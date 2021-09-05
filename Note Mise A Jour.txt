@@ -1,7 +1,27 @@
 ╔═══════════════════════════════════════════╗
-║ Generateur de plan de classe    V1.6      ║
-║ Sinel V.  2018                            ║
+║ Generateur de plan de classe    V2.0      ║
+║ Sinel V.  2021                            ║
 ╠═══════════════════════════════════════════╝
+╠═══════════════════════════════╗
+║Derniere Mise a jour : V. 2.0  ║
+╠═══════════════════════════════╝
+║
+║	- Remodellage complet du systeme de donnée.
+║	- Changement de la création des plans.
+║	- Possibilité de drag and drop les tables.
+║	- Possibilité de faire tourner les tables.
+║	- 6 types de plan en autogénération (3 classique, en U, 2 en îlot).
+║	- Correction du mélange des places lors de l'ajout d'un élève.
+║	- Suppression des limitations pour la création de classes avec un même nom;
+║	- Suppression des limitations pour la création d'élève avec un même nom;
+║	- Suppression des limitations pour la création de salle avec un même nom;
+║	- Suppression des limitations pour l'assignation des place (si un élève est assigné a plusieurs place sont nom est afficher en rouge);
+║	- Ajout d'information sur le plan de classe lors de la phase de création;
+║	- Amélioration de la qualité du rendu PDF;
+║	- Lors de l'assignation fixe d'élève, la liste indique en rouge les élèves déjà positionnés;
+║
+║	- La génération à l'aide de la matrice d'entente entre élève est pour le moment désactivé (les places sont assignées aléatoirement);
+║
 ╠═══════════════════════════════╗
 ║Derniere Mise a jour : V. 1.6  ║
 ╠═══════════════════════════════╝

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.6.0.0</version>
+    <version>2.0.0.0</version>
     <url>https://github.com/VincentSinel/Generateur_Plan_Classe/raw/master/File.zip</url>
     <changelog>https://raw.githubusercontent.com/VincentSinel/Generateur_Plan_Classe/master/Note%20Mise%20A%20Jour.txt</changelog>
     <mandatory>true</mandatory>
